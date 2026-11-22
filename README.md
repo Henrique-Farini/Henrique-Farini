@@ -19,11 +19,14 @@
 
 ```js
 const henrique = {
-  local:     "Mococa-SP 🇧🇷",
-  trabalho:  ["Jovem Aprendiz na CPFL (Desenvolvimento Web)", "Infraestrutura e redes na WT"],
-  formacao:  "Técnico em Desenvolvimento de Sistemas, SENAI (2025 – dez/2026)",
-  foco:      ["NyxCloud", "Site da Fazenda Prata", "Machine Learning com Python"],
-  estudaIA:  "desde 2023",
+  local: "Mococa-SP",
+  trabalho: [
+    "Jovem Aprendiz na CPFL (Desenvolvimento Web)",
+    "Infraestrutura e redes na WT",
+  ],
+  formacao: "Técnico em Desenvolvimento de Sistemas (SENAI, 2025 – 2026)",
+  foco: ["NyxCloud", "Site da Fazenda Prata", "Machine Learning"],
+  estudaIA: "desde 2023",
 };
 ```
 
