@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Henrique%20Farini&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20Web%20%C2%B7%20Infraestrutura%20%26%20Redes%20%C2%B7%20NyxCloud&descAlignY=58&descSize=16" width="100%" alt="Henrique Farini"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Henrique%20Farini&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20Web%20%7C%20Infraestrutura%20e%20Redes%20%7C%20NyxCloud&descAlignY=58&descSize=16" width="100%" alt="Henrique Farini"/>
 
 <p align="center">
   <a href="https://github.com/Henrique-Farini">
