@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/henriquefarini"><img src="https://img.shields.io/badge/LinkedIn-henriquefarini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/henrique-farini-ferreira"><img src="https://img.shields.io/badge/LinkedIn-henrique--farini--ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:henriquefariniferreira@gmail.com"><img src="https://img.shields.io/badge/E--mail-contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://henrique-farini.netlify.app/"><img src="https://img.shields.io/badge/Portf%C3%B3lio-henrique--farini.netlify.app-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Portfólio"></a>
   <img src="https://komarev.com/ghpvc/?username=Henrique-Farini&style=for-the-badge&color=2563eb&label=VISITAS" alt="Visitas ao perfil">
